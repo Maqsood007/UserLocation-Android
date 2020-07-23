@@ -76,3 +76,9 @@ Steps to integrate:
             ) {
                 locationUtility.onRequestPermissionsResult(requestCode, permissions, grantResults)
             }
+            
+            
+            
+            
+https://github.com/Maqsood007/UserLocation-Android/blob/master/device-2020-07-24-024316.png
+https://github.com/Maqsood007/UserLocation-Android/blob/master/device-2020-07-24-024437.png
